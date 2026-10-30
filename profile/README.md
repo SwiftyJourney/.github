@@ -3,14 +3,16 @@
   <p><b>The parts of iOS that don't fit in a tutorial.</b><br/>
   Tips, short explainers, and AI tools worth your time. Hand-written, typos included.</p>
 
-  <a href="https://swiftyjourney.com"><img src="https://img.shields.io/badge/-Read_the_blog-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Read the blog"/></a>
-  <a href="https://swiftyjourney.com/rss.xml"><img src="https://img.shields.io/badge/-RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white" alt="RSS"/></a>
+  <p>
+    📖 <a href="https://swiftyjourney.com">Read the blog</a> ·
+    📡 <a href="https://swiftyjourney.com/rss.xml">RSS</a>
+  </p>
 </div>
 
 ---
 
-SwiftyJourney is where [Juan Dorado](https://github.com/jfdoradotr), a Senior iOS Engineer from Mexico,
-shares what he learns building iOS apps: architecture, testing, Swift Concurrency, and how AI agents
+SwiftyJourney is the blog of [Juan Dorado](https://github.com/jfdoradotr), a Senior iOS Engineer from Mexico,
+about what building iOS apps teaches: architecture, testing, Swift Concurrency, and how AI agents
 fit into real Swift codebases. The repos here are the code behind the articles.
 
 ### 🤖 Agent skills for iOS
